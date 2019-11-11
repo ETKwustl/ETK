@@ -14,6 +14,11 @@ html {
 body {
   font-family: "Montserrat"; }
 
+  /* #cover{
+    position: relative;
+  top: 50%;
+  } */
+
 #mainchild {
   animation: feature-animation .75s ease-in-out;
   -webkit-animation: feature-animation .75s ease-in-out;
